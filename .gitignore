@@ -1,0 +1,25 @@
+# Java derleme çıktıları
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE dosyaları
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+.settings/
+.classpath
+.project
+bin/
+out/
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Derleme klasörü
+build/
+target/
